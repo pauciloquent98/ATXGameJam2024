@@ -1,0 +1,199 @@
+[+] Containers:
+ |- [+] Container: /Game/Level/MainLevel
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0462401147E87BE844126BB08A83E1E6 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1419611978 Label:BP_BushBorder11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-810.427 Y=-254.172 Z=0.000), Max=(X=-272.400 Y=794.886 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:052127FA42F087316BDB7380F730A65D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:06116EE34A0F006733CE00B4D18FA934 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:0B49418E442C07A767183F9BC61EDD29 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1375615973 Label:BP_BushBorder6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.054 Y=2552.452 Z=0.000), Max=(X=853.822 Y=3478.676 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:173B097344EE6933F7F5289DA49DA66A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_4 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-20.000 Y=8390.000 Z=-60.000), Max=(X=2980.000 Y=8490.000 Z=340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:25514F6A44C81572102ABE9190A046FF BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:32EF87A946D3BEFA94F09BB4A18AAF58 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1321447971 Label:BP_BushBorder4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=-375.000 Z=0.000), Max=(X=1050.000 Y=-5.000 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3DD2DF5C42ACE8462E8C50886723EE18 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:4412EB5F47123A5B81A2C48AED776D0B BaseClass:/Game/Level/BP_Tree.BP_Tree_C NativeClass:/Script/Engine.Actor Name:BP_Tree_C_UAID_80FA5B851A292ED101_1666249984 Label:BP_Tree4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1079.893 Y=679.893 Z=-34.375), Max=(X=1240.107 Y=840.107 Z=559.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:44A7B8884288BAC28CFAAB8540F125A5 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1322838972 Label:BP_BushBorder5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=855.471 Y=-869.014 Z=0.000), Max=(X=1904.529 Y=-330.986 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:46FCA1844564CCF9DB23A2BCF73E553D BaseClass:/Game/Level/BP_Rock.BP_Rock_C NativeClass:/Script/Engine.Actor Name:BP_Rock_C_UAID_80FA5B851A292ED101_1567500981 Label:BP_Rock SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2570.000 Y=1210.000 Z=0.000), Max=(X=2670.000 Y=1310.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4DF7096542E6D8ED576D79B0F865463D BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1291389968 Label:BP_BushBorder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1924.487 Y=-920.215 Z=0.000), Max=(X=2975.513 Y=-99.785 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:660D27194895437892972997BA6549EE BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1419608977 Label:BP_BushBorder10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1000.146 Y=780.806 Z=0.000), Max=(X=-630.146 Y=1780.806 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:69B1ED4B4F811591A9677993D7E3E939 BaseClass:/Game/Level/BP_Tree.BP_Tree_C NativeClass:/Script/Engine.Actor Name:BP_Tree_C_UAID_80FA5B851A292ED101_1509419980 Label:BP_Tree SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1770.000 Y=2100.000 Z=-27.500), Max=(X=1870.000 Y=2200.000 Z=447.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:70405F164CFD03C2C71AD09764EAF08E BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:7652773F424BB8426290488CDBAAA29A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_80FA5B851A292DD101_1851165786 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4630.000 Y=-1880.000 Z=-50.000), Max=(X=9555.000 Y=4795.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:8460FC1249C92A4C018B0E887845730C BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1318924970 Label:BP_BushBorder3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-915.513 Y=-800.215 Z=0.000), Max=(X=135.513 Y=20.215 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:860299DB40BAD150AC1EB889B75AEA15 BaseClass:/Game/Level/BP_Tree.BP_Tree_C NativeClass:/Script/Engine.Actor Name:BP_Tree_C_UAID_80FA5B851A292ED101_1656403982 Label:BP_Tree2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=828.517 Y=750.672 Z=-27.500), Max=(X=956.688 Y=878.843 Z=447.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:897EB9FC41082D2E7A5E26A9AB701DD1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638310.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638490.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:8A442EBD4DED86CB9AB141AD9CEFA509 BaseClass:/Game/Level/BP_Tree.BP_Tree_C NativeClass:/Script/Engine.Actor Name:BP_Tree_C_UAID_80FA5B851A292ED101_1659799983 Label:BP_Tree3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=883.534 Y=431.539 Z=-41.250), Max=(X=1075.790 Y=623.796 Z=671.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:90F4D97A40DBF8A2AD76D1932413D738 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1375617974 Label:BP_BushBorder7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2636.456 Y=3045.695 Z=0.000), Max=(X=3702.696 Y=3735.401 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9C6E226A40E50D98EEBE609C97DBF544 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1489400979 Label:BP_BushBorder12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-660.146 Y=1660.806 Z=0.000), Max=(X=-290.146 Y=2660.806 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A2AC75A345481C4BF03A93807D9743F6 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-130.000 Y=1270.000 Z=0.013), Max=(X=-50.000 Y=1350.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B4827EA9437D6C8A9B4AC39B9B0BE770 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_80FA5B851A292DD101_1940461787 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9470.000 Y=-3200.000 Z=-50.000), Max=(X=15970.000 Y=6150.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:C5FDFC894613F6C104ED45A32802F6DE BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1315375969 Label:BP_BushBorder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-885.513 Y=2539.785 Z=0.000), Max=(X=165.513 Y=3360.215 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CAC5B4654D82E9F2FD165091C30A8845 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1375619975 Label:BP_BushBorder8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1754.057 Y=2761.343 Z=0.000), Max=(X=2803.115 Y=3299.370 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D9FEB67D416441ED2D230DBECFEAACB7 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:ED00A706461DA07D62316FA939FA6D21 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-970.000 Y=-970.000 Z=-50.000), Max=(X=4630.000 Y=3830.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- Guid:F15ABE834AD330049A91C2B246F8DE71 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- Guid:F3DD53824672CA35AF8178848B57303A BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1375620976 Label:BP_BushBorder9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=890.000 Y=3105.000 Z=0.000), Max=(X=1890.000 Y=3475.000 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0462401147E87BE844126BB08A83E1E6 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1419611978 Label:BP_BushBorder11 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-810.427 Y=-254.172 Z=0.000), Max=(X=-272.400 Y=794.886 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:052127FA42F087316BDB7380F730A65D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:06116EE34A0F006733CE00B4D18FA934 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:0B49418E442C07A767183F9BC61EDD29 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1375615973 Label:BP_BushBorder6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-150.054 Y=2552.452 Z=0.000), Max=(X=853.822 Y=3478.676 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:173B097344EE6933F7F5289DA49DA66A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_4 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-20.000 Y=8390.000 Z=-60.000), Max=(X=2980.000 Y=8490.000 Z=340.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:25514F6A44C81572102ABE9190A046FF BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:32EF87A946D3BEFA94F09BB4A18AAF58 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1321447971 Label:BP_BushBorder4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=50.000 Y=-375.000 Z=0.000), Max=(X=1050.000 Y=-5.000 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:3DD2DF5C42ACE8462E8C50886723EE18 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_0 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:4412EB5F47123A5B81A2C48AED776D0B BaseClass:/Game/Level/BP_Tree.BP_Tree_C NativeClass:/Script/Engine.Actor Name:BP_Tree_C_UAID_80FA5B851A292ED101_1666249984 Label:BP_Tree4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1079.893 Y=679.893 Z=-34.375), Max=(X=1240.107 Y=840.107 Z=559.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:44A7B8884288BAC28CFAAB8540F125A5 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1322838972 Label:BP_BushBorder5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=855.471 Y=-869.014 Z=0.000), Max=(X=1904.529 Y=-330.986 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:46FCA1844564CCF9DB23A2BCF73E553D BaseClass:/Game/Level/BP_Rock.BP_Rock_C NativeClass:/Script/Engine.Actor Name:BP_Rock_C_UAID_80FA5B851A292ED101_1567500981 Label:BP_Rock SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2570.000 Y=1210.000 Z=0.000), Max=(X=2670.000 Y=1310.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:4DF7096542E6D8ED576D79B0F865463D BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1291389968 Label:BP_BushBorder SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1924.487 Y=-920.215 Z=0.000), Max=(X=2975.513 Y=-99.785 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:660D27194895437892972997BA6549EE BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1419608977 Label:BP_BushBorder10 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1000.146 Y=780.806 Z=0.000), Max=(X=-630.146 Y=1780.806 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:69B1ED4B4F811591A9677993D7E3E939 BaseClass:/Game/Level/BP_Tree.BP_Tree_C NativeClass:/Script/Engine.Actor Name:BP_Tree_C_UAID_80FA5B851A292ED101_1509419980 Label:BP_Tree SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1770.000 Y=2100.000 Z=-27.500), Max=(X=1870.000 Y=2200.000 Z=447.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:70405F164CFD03C2C71AD09764EAF08E BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:7652773F424BB8426290488CDBAAA29A BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_80FA5B851A292DD101_1851165786 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4630.000 Y=-1880.000 Z=-50.000), Max=(X=9555.000 Y=4795.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:8460FC1249C92A4C018B0E887845730C BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1318924970 Label:BP_BushBorder3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-915.513 Y=-800.215 Z=0.000), Max=(X=135.513 Y=20.215 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:860299DB40BAD150AC1EB889B75AEA15 BaseClass:/Game/Level/BP_Tree.BP_Tree_C NativeClass:/Script/Engine.Actor Name:BP_Tree_C_UAID_80FA5B851A292ED101_1656403982 Label:BP_Tree2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=828.517 Y=750.672 Z=-27.500), Max=(X=956.688 Y=878.843 Z=447.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:897EB9FC41082D2E7A5E26A9AB701DD1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638310.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638490.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:8A442EBD4DED86CB9AB141AD9CEFA509 BaseClass:/Game/Level/BP_Tree.BP_Tree_C NativeClass:/Script/Engine.Actor Name:BP_Tree_C_UAID_80FA5B851A292ED101_1659799983 Label:BP_Tree3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=883.534 Y=431.539 Z=-41.250), Max=(X=1075.790 Y=623.796 Z=671.250) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:90F4D97A40DBF8A2AD76D1932413D738 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1375617974 Label:BP_BushBorder7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2636.456 Y=3045.695 Z=0.000), Max=(X=3702.696 Y=3735.401 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:9C6E226A40E50D98EEBE609C97DBF544 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1489400979 Label:BP_BushBorder12 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-660.146 Y=1660.806 Z=0.000), Max=(X=-290.146 Y=2660.806 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:A2AC75A345481C4BF03A93807D9743F6 BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-130.000 Y=1270.000 Z=0.013), Max=(X=-50.000 Y=1350.000 Z=184.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:B4827EA9437D6C8A9B4AC39B9B0BE770 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_80FA5B851A292DD101_1940461787 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9470.000 Y=-3200.000 Z=-50.000), Max=(X=15970.000 Y=6150.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:C5FDFC894613F6C104ED45A32802F6DE BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1315375969 Label:BP_BushBorder2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-885.513 Y=2539.785 Z=0.000), Max=(X=165.513 Y=3360.215 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:CAC5B4654D82E9F2FD165091C30A8845 BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1375619975 Label:BP_BushBorder8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1754.057 Y=2761.343 Z=0.000), Max=(X=2803.115 Y=3299.370 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:D9FEB67D416441ED2D230DBECFEAACB7 BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:ED00A706461DA07D62316FA939FA6D21 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_0 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-970.000 Y=-970.000 Z=-50.000), Max=(X=4630.000 Y=3830.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:6C02BB504B69D1F3D7A624B130C18E5B
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:F15ABE834AD330049A91C2B246F8DE71 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:0BA5F0A04EADB18E70D5B180D08FA34B
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:F3DD53824672CA35AF8178848B57303A BaseClass:/Game/Level/BP_BushBorder.BP_BushBorder_C NativeClass:/Script/Engine.Actor Name:BP_BushBorder_C_UAID_80FA5B851A292ED101_1375620976 Label:BP_BushBorder9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=890.000 Y=3105.000 Z=0.000), Max=(X=1890.000 Y=3475.000 Z=300.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Level/MainLevel
+----------------------------------------------------------------------------------------------------------------
+MainLevel - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of MainLevel Persistent Level
+ |- Always loaded Actor Count: 38 
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Level/MainLevel
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1291389968
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/6/1I/095ANJFGFM03AYSIC5J6E0
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1315375969
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/D/WS/FSKDAMT1S9WB80BIV0KX0Y
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1318924970
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/D/YC/W0AA5Y8PIG5H2KE39DT4MK
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1321447971
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/B/ZU/XF7EMSLDBJEHICH42TCYHM
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1322838972
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/5/31/XLLIX4RP0FGDR5VOAUIS0F
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1375615973
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/7/PY/80HMRV46WP2JH3MMIBVLO0
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1375617974
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/4/UB/0DNUE8CTEUT6TI3I80HPXG
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1375619975
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/C/11/I1IVD2EZK70QB2FL167I39
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1375620976
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/E/EB/P8YDU1KNVX5JZYTW6K0NBA
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1419608977
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/C/WL/CKJHGW1CTFOVGLYMY65VOI
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1419611978
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/E/P2/1FD1NGG5HAFX17ER30HSEG
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_BushBorder_C_UAID_80FA5B851A292ED101_1489400979
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/0/E2/BTUYT4S50OGP3PTFSX35GH
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Rock_C_UAID_80FA5B851A292ED101_1567500981
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/7/4S/OHBM0TTQXPNX9ROTRNQNEB
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Tree_C_UAID_80FA5B851A292ED101_1509419980
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/4/A4/1CC2DPQ3P1P0GMXXRXV29S
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Tree_C_UAID_80FA5B851A292ED101_1656403982
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/1/9T/O6WD1XRCA2J6OOQWHU5WU6
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Tree_C_UAID_80FA5B851A292ED101_1659799983
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/6/NW/2DUZY90RDQAUTB0PPFWPM6
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.BP_Tree_C_UAID_80FA5B851A292ED101_1666249984
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/C/CY/S8UJMO1ISLHO8CATR6096F
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Level/MainLevel
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.CombinedTransformGizmoActor_0
+ |- Actor Package: /Game/Level/MainLevel
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Level/MainLevel
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/2/M2/ANM5BTF8UKBSBEFQSMVSEL
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/B/6C/1LNKVZ0VI7F5N6SM4I0N2X
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.FirstPersonMap_C_1
+ |- Actor Package: /Game/Level/MainLevel
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Level/MainLevel
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/9/SV/228YZLBTCMKZ4XUPXNVZ2Z
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.PostProcessVolume_0
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/4/WW/0QWZ4KLVWUE4VN12V4LYFK
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/3/AI/HE7P5E654BMYV224LB3CRF
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.SkyLight_0
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/3/FP/Z8388REX7GRJ5Y266I23P8
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_0
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/4/H7/921T68UD8UGFJJXLPNBO78
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_4
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/4/FD/4QBZDU7PHMY59VKQ616T92
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_UAID_80FA5B851A292DD101_1851165786
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/3/D5/MVJ5YI6SR44IHJC5SD0O3F
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_UAID_80FA5B851A292DD101_1940461787
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/2/Y8/Y09KJEMACQLVC8NKOT8GB9
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_2001720423
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/7/TH/DDTAQCTH7X58QQS4C2GSYF
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/2/IC/BCGG0KHQB5FDXBF8Y63PMH
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/A/3O/8YMG2J0TRRWGIAJT8G58VY
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/Level/MainLevel
+ |- Actor Path: /Game/Level/MainLevel.MainLevel:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/Level/MainLevel/E/AS/F4TLSN9D7PQ21RXKALTDTP
+
+----------------------------------------------------------------------------------------------------------------
+MainLevel - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
