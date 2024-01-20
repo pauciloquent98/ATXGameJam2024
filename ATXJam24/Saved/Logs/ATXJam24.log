@@ -3073,3 +3073,172 @@ LogInit: Object subsystem initialized
 [2024.01.20-20.04.47:823][659]AssetCheck: New page: Asset Save: BP_Teleporter
 [2024.01.20-20.04.47:824][659]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
 [2024.01.20-20.08.24:739][463]LogDerivedDataCache: C:/Users/geoff/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1200 files in 1851 folders with total size 73 MiB.
+[2024.01.20-20.53.02:846][558]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2024.01.20-20.56.44:727][558]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10940
+[2024.01.20-20.56.45:064][559]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d5c2f693-53b4-4230-b8a8-d1eb139e778f}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=249.30
+[2024.01.20-20.56.45:064][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.20-20.56.45:066][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.20-21.05.10:236][883]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.20-21.05.10:249][883]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.20-21.05.10:258][883]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.20-21.05.10:273][884]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.20-21.05.16:869][202]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Guardian
+[2024.01.20-21.05.16:886][202]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.20-21.05.19:627][333]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/BP_Guardian.BP_Guardian
+[2024.01.20-21.05.19:628][333]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.05.19:629][333]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-21.05.19:911][333]LogViewport: Scene viewport resized to 1139x933, mode Windowed.
+[2024.01.20-21.05.28:340][648]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/BP_Ghoul.BP_Ghoul
+[2024.01.20-21.05.28:341][648]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.05.28:341][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-21.05.28:456][648]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.05.28:456][648]LogTexture: Display: Building textures: /Game/Enemies/UndeadPack/Ghoul/Textures/T_Ghoul_E.T_Ghoul_E (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.20-21.05.28:483][648]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Ghoul) ...
+[2024.01.20-21.05.28:738][648]LogTexture: Display: Building textures: /Game/Enemies/UndeadPack/Ghoul/Textures/T_Ghoul_AORM.T_Ghoul_AORM (TFO_BC7, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.20-21.05.29:040][648]LogTexture: Display: Building textures: /Game/Enemies/UndeadPack/Ghoul/Textures/T_Ghoul_D.T_Ghoul_D (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.20-21.05.31:406][648]LogSkeletalMesh: Building Skeletal Mesh SK_Ghoul...
+[2024.01.20-21.05.31:428][648]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Enemies/UndeadPack/Ghoul/Mesh/SK_Ghoul.SK_Ghoul
+[2024.01.20-21.05.31:430][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2024.01.20-21.05.31:430][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2024.01.20-21.05.31:430][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2024.01.20-21.05.31:430][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonRun.ThirdPersonRun
+[2024.01.20-21.05.31:430][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2024.01.20-21.05.31:430][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2024.01.20-21.05.31:430][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Animations/Anim_Hit.Anim_Hit
+[2024.01.20-21.05.31:430][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Animations/Anim_Death.Anim_Death
+[2024.01.20-21.05.31:431][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Animations/Anim_Attack_Right.Anim_Attack_Right
+[2024.01.20-21.05.31:444][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPerson_Jump.ThirdPerson_Jump, at AnimationSequence/a6ddfbc3c9e346430325ac944e0ba4d84b31ca94
+[2024.01.20-21.05.31:444][648]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Enemies/UndeadPack/Ghoul/Animations/Anim_Attack_Left.Anim_Attack_Left
+[2024.01.20-21.05.31:445][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start, at AnimationSequence/cbf6415d537969a3a8c4712b3664070e22cabb7e
+[2024.01.20-21.05.31:447][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonRun.ThirdPersonRun, at AnimationSequence/bf40a8008440685833f4b4ef44cbc35639fd802b
+[2024.01.20-21.05.31:449][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop, at AnimationSequence/2a8e06bddf6963899d3240b897be514ef9fe409c
+[2024.01.20-21.05.31:450][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonWalk.ThirdPersonWalk, at AnimationSequence/cc8fb14ed157ca4fadbadaf125f5d8cba5b6d2be
+[2024.01.20-21.05.31:461][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Animations/Anim_Hit.Anim_Hit, at AnimationSequence/edccb41d1b82db671028cea93155eb0b6d37de57
+[2024.01.20-21.05.31:462][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Demo/ThirdPersonTemplate/Animations/ThirdPersonIdle.ThirdPersonIdle, at AnimationSequence/680686f9b5c642c7c89a6d32490aed4e46786d18
+[2024.01.20-21.05.31:467][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Animations/Anim_Death.Anim_Death, at AnimationSequence/40d83029ee0ed8d47434022768868a25a66a3aff
+[2024.01.20-21.05.31:468][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Animations/Anim_Attack_Right.Anim_Attack_Right, at AnimationSequence/9c96ebd70d1c7277e4efe4644fac71c6e11136a1
+[2024.01.20-21.05.31:473][648]LogAnimationCompression: Display: Storing compressed animation data for /Game/Enemies/UndeadPack/Ghoul/Animations/Anim_Attack_Left.Anim_Attack_Left, at AnimationSequence/311f4252698c38823c278c6f9d6e1427ebde9f51
+[2024.01.20-21.05.31:850][654]LogTexture: Display: Building textures: /Game/Enemies/UndeadPack/Ghoul/Textures/T_Ghoul_N.T_Ghoul_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: ================================================
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: Total job queries 4,047, among them cache hits 60 (1.48%)
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: Tracking 3,982 distinct input hashes that result in 2,834 distinct outputs (71.17%)
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: RAM used: 75.11 MiB of 819.20 MiB budget. Usage: 9.17%
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: Shaders Compiled: 3,982
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: Jobs assigned 3,983, completed 3,982 (99.97%)
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: Average time worker was idle: 45.73 s
+[2024.01.20-21.05.32:971][701]LogShaderCompilers: Display: Time job spent in pending queue: average 45.63 s, longest 107.83 s
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Job execution time: average 2.84 s, max 8.90 s
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Job life time (pending + execution): average 48.48 s, max 111.97
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Shader code size: average 38.499 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 142.69 s
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Jobs were issued in 699 batches (only local compilation was used), average 5.70 jobs/batch
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Average processing rate: 27.91 jobs/sec
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Total thread time: 1,224.704 s
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Total thread preprocess time: 95.17 s
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Percentage time preprocessing: 7.77%
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Effective parallelization: 8.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.36 sec, max 6.14 sec, min 1.09 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.16 sec, max 3.91 sec, min 2.37 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.56 sec, max 1.56 sec, min 1.56 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.28 sec, max 2.05 sec, min 0.66 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled   12 times, average 1.14 sec, max 2.66 sec, min 0.06 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.00% of total time (compiled  134 times, average 1.01 sec, max 1.97 sec, min 0.70 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.72% of total time (compiled   96 times, average 0.60 sec, max 1.16 sec, min 0.36 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.70% of total time (compiled  128 times, average 0.45 sec, max 1.18 sec, min 0.11 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.09% of total time (compiled   96 times, average 0.52 sec, max 1.09 sec, min 0.13 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.68% of total time (compiled  128 times, average 0.35 sec, max 0.71 sec, min 0.21 sec)
+[2024.01.20-21.05.32:972][701]LogShaderCompilers: Display: ================================================
+[2024.01.20-21.05.34:494][706]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.05.34:522][707]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.06.24:188][656]LogSlate: Took 0.006262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.20-21.06.24:300][660]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.06.24:595][667]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.07.12:599][451]BlueprintLog: New page: Compile BP_Guardian
+[2024.01.20-21.07.12:669][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2024.01.20-21.07.14:504][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-21.07.14:612][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Guardian" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/Enemies/BP_Guardian.uasset" SILENT=true
+[2024.01.20-21.07.14:617][523]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Guardian
+[2024.01.20-21.07.14:617][523]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Guardian7F04F32445ABE46AE7212A93B5810FE9.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/Enemies/BP_Guardian.uasset'
+[2024.01.20-21.07.14:631][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 3.03 sec)
+[2024.01.20-21.07.14:633][523]AssetCheck: New page: Asset Save: BP_Guardian
+[2024.01.20-21.07.14:633][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_Guardian.BP_Guardian
+[2024.01.20-21.08.08:777][891]BlueprintLog: New page: Compile BP_Guardian
+[2024.01.20-21.08.08:814][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.20-21.08.30:913][847]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.01.20-21.08.30:914][847]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.08.30:914][847]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-21.08.41:677][338]LogViewport: Scene viewport resized to 1139x933, mode Windowed.
+[2024.01.20-21.08.45:262][474]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-21.08.45:262][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-21.08.49:015][612]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.01.20-21.08.49:015][612]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.08.49:015][612]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-21.09.09:397][569]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-21.09.09:397][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-21.09.12:866][724]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.01.20-21.09.12:866][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-21.09.12:867][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: ================================================
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Total job queries 4,059, among them cache hits 60 (1.48%)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Tracking 3,989 distinct input hashes that result in 2,837 distinct outputs (71.12%)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: RAM used: 75.24 MiB of 819.20 MiB budget. Usage: 9.18%
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Shaders Compiled: 3,989
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Jobs assigned 3,995, completed 3,989 (99.85%)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Average time worker was idle: 123.89 s
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Time job spent in pending queue: average 45.49 s, longest 107.83 s
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Job execution time: average 2.83 s, max 8.90 s
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Job life time (pending + execution): average 48.39 s, max 111.97
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Shader code size: average 38.488 KiB, min 2.086 KiB, max 162.84 KiB
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 143.86 s
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Jobs were issued in 711 batches (only local compilation was used), average 5.62 jobs/batch
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Average processing rate: 27.73 jobs/sec
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Total thread time: 1,226.946 s
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Total thread preprocess time: 96.455 s
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Percentage time preprocessing: 7.86%
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Effective parallelization: 8.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.36 sec, max 6.14 sec, min 1.09 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.16 sec, max 3.91 sec, min 2.37 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 1.56 sec, max 1.56 sec, min 1.56 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.28 sec, max 2.05 sec, min 0.66 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled   12 times, average 1.14 sec, max 2.66 sec, min 0.06 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.98% of total time (compiled  134 times, average 1.01 sec, max 1.97 sec, min 0.70 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.72% of total time (compiled   96 times, average 0.60 sec, max 1.16 sec, min 0.36 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.69% of total time (compiled  128 times, average 0.45 sec, max 1.18 sec, min 0.11 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.08% of total time (compiled   96 times, average 0.52 sec, max 1.09 sec, min 0.13 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.67% of total time (compiled  128 times, average 0.35 sec, max 0.71 sec, min 0.21 sec)
+[2024.01.20-21.09.13:719][749]LogShaderCompilers: Display: ================================================
+[2024.01.20-21.12.07:612][ 17]LogDerivedDataCache: C:/Users/geoff/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.069 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1268 files in 1973 folders with total size 102 MiB.
+[2024.01.20-21.13.10:041][950]LogEditorTransaction: Undo Move Node
+[2024.01.20-21.13.10:346][952]LogEditorTransaction: Undo Move Node
+[2024.01.20-21.13.10:642][956]LogEditorTransaction: Undo Delete current selection
+[2024.01.20-21.13.40:960][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.20-21.13.40:963][369]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FPTestEnvironment' took 0.023
+[2024.01.20-21.13.40:964][369]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/BP_Guardian] ([2] browsable assets)...
+[2024.01.20-21.13.40:964][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Guardian]
+[2024.01.20-21.13.40:974][369]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/BP_Guardian_Auto8
+[2024.01.20-21.13.40:974][369]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Guardian_Auto831E123A942EDB7B6413427BE1ECE5BC7.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/Autosaves/Game/Enemies/BP_Guardian_Auto8.uasset'
+[2024.01.20-21.13.40:975][369]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.01.20-21.15.58:289][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-21.15.58:381][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Guardian" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/Enemies/BP_Guardian.uasset" SILENT=true
+[2024.01.20-21.15.58:390][978]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Guardian
+[2024.01.20-21.15.58:391][978]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Guardian2A501E5341176EFDD2E09B8B0EFA58D5.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/Enemies/BP_Guardian.uasset'
+[2024.01.20-21.15.58:400][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 3.14 sec)
+[2024.01.20-21.15.58:405][978]AssetCheck: New page: Asset Save: BP_Guardian
+[2024.01.20-21.15.58:405][978]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_Guardian.BP_Guardian
+[2024.01.20-21.15.59:532][ 33]BlueprintLog: New page: Compile BP_Guardian
+[2024.01.20-21.15.59:573][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.01.20-21.16.00:653][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-21.16.00:737][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Guardian" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/Enemies/BP_Guardian.uasset" SILENT=true
+[2024.01.20-21.16.00:744][ 77]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Guardian
+[2024.01.20-21.16.00:745][ 77]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Guardian373140314B4905D6A78F1EA58294931B.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/Enemies/BP_Guardian.uasset'
+[2024.01.20-21.16.00:752][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 3.24 sec)
+[2024.01.20-21.16.00:754][ 77]AssetCheck: New page: Asset Save: BP_Guardian
+[2024.01.20-21.16.00:754][ 77]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_Guardian.BP_Guardian
