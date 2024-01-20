@@ -2401,3 +2401,674 @@ LogInit: Object subsystem initialized
 [2024.01.20-19.03.18:552][520]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/LXSJBR4N4D21AG39VZMP66_Auto4E9A732A34F7ACA8F6F3846855CC351A0.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66_Auto4.uasset'
 [2024.01.20-19.03.18:553][520]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FPTestEnvironment' took 0.020
 [2024.01.20-19.03.18:553][520]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2024.01.20-19.08.24:724][439]LogDerivedDataCache: C:/Users/geoff/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.048 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1200 files in 1851 folders with total size 73 MiB.
+[2024.01.20-19.12.07:614][117]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.12.07:614][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.12.07:615][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.12.28:523][ 97]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.12.28:568][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.20-19.14.13:190][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.01.20-19.14.13:195][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66_Auto5
+[2024.01.20-19.14.13:195][980]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/LXSJBR4N4D21AG39VZMP66_Auto514F6A4E344A67FDEEAD69BB53044B61A.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66_Auto5.uasset'
+[2024.01.20-19.14.13:196][980]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FPTestEnvironment' took 0.015
+[2024.01.20-19.14.13:196][980]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2024.01.20-19.14.13:196][980]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentBPs/BP_Teleporter] ([2] browsable assets)...
+[2024.01.20-19.14.13:196][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentBPs/BP_Teleporter]
+[2024.01.20-19.14.13:201][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EnvironmentBPs/BP_Teleporter_Auto5
+[2024.01.20-19.14.13:201][980]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter_Auto55BB2484E48024BF4660182AD8B1B9418.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/Autosaves/Game/EnvironmentBPs/BP_Teleporter_Auto5.uasset'
+[2024.01.20-19.14.13:202][980]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.01.20-19.17.36:793][358]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.17.36:846][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.01.20-19.17.38:088][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.17.38:186][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.17.38:196][410]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.17.38:196][410]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter9F6B1B9B491993C19091D78F58410B49.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.17.38:205][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.43 sec)
+[2024.01.20-19.17.38:209][410]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.17.38:209][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.20.34:550][897]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.20.34:600][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.20-19.23.55:904][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.23.55:991][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.23.56:004][555]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.23.56:005][555]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter26F9B80F43848CE066B65D8EAA308F3A.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.23.56:015][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.54 sec)
+[2024.01.20-19.23.56:017][555]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.23.56:017][555]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.24.41:087][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.01.20-19.24.41:090][391]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66_Auto6
+[2024.01.20-19.24.41:090][391]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/LXSJBR4N4D21AG39VZMP66_Auto646DED6F24DB195232D2B89BB1611EF37.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66_Auto6.uasset'
+[2024.01.20-19.24.41:095][391]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FPTestEnvironment' took 0.022
+[2024.01.20-19.24.41:095][391]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2024.01.20-19.26.09:572][716]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.26.09:605][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.20-19.26.10:609][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.26.10:686][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.26.10:694][762]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.26.10:694][762]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter60FA8C2A44A7EAE9C9A654AC1C688F42.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.26.10:699][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.63 sec)
+[2024.01.20-19.26.10:705][762]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.26.10:705][762]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.26.15:042][  1]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.01.20-19.26.15:042][  1]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.01.20-19.26.23:321][478]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C
+[2024.01.20-19.26.23:321][478]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C
+[2024.01.20-19.26.23:325][478]LogActorFactory: Actor Factory spawned Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter as actor: BP_Teleporter_C /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_1
+[2024.01.20-19.26.23:327][478]LogActorFactory: Actor Factory spawned Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter as actor: BP_Teleporter_C /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_1
+[2024.01.20-19.26.23:639][495]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C
+[2024.01.20-19.26.23:639][495]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C
+[2024.01.20-19.26.23:645][495]LogActorFactory: Actor Factory spawned Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter as actor: BP_Teleporter_C /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+[2024.01.20-19.26.23:647][495]LogActorFactory: Actor Factory spawned Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter as actor: BP_Teleporter_C /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+[2024.01.20-19.26.27:017][690]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.01.20-19.26.27:017][690]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.01.20-19.26.34:620][130]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.01.20-19.26.34:621][130]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2024.01.20-19.26.47:206][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.20-19.26.47:210][852]LogContentBundle: [FPTestEnvironment(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.20-19.26.47:210][852]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' started...
+[2024.01.20-19.26.47:212][852]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' took 2 ms (total: 18 ms)
+[2024.01.20-19.26.47:212][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.20-19.26.47:212][852]PIE: New page: PIE session: FPTestEnvironment (Jan 20, 2024, 7:26:47 AM)
+[2024.01.20-19.26.47:212][852]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.26.47:219][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006375s)
+[2024.01.20-19.26.47:219][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment to /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment (0.006419s)
+[2024.01.20-19.26.47:232][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.20-19.26.47:236][852]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.26.47:236][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.26.47:236][852]LogAIModule: Creating AISystem for world FPTestEnvironment
+[2024.01.20-19.26.47:237][852]LogWorldPartition: ULevel::OnLevelLoaded(FPTestEnvironment)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.20-19.26.47:237][852]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.20-19.26.47:237][852]LogWorldPartition: UWorldPartition::Initialize : World = FPTestEnvironment, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.20-19.26.47:237][852]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.20-19.26.47:238][852]LogContentBundle: [FPTestEnvironment(Standalone)] Creating new contrainer.
+[2024.01.20-19.26.47:238][852]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 167 ms)
+[2024.01.20-19.26.47:238][852]LogPlayLevel: PIE: World Init took: (0.002798s)
+[2024.01.20-19.26.47:238][852]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.01.20-19.26.47:238][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.20-19.26.47:238][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.20-19.26.47:238][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.20-19.26.47:238][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.20-19.26.47:238][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.20-19.26.47:238][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.20-19.26.47:238][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.20-19.26.47:238][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.20-19.26.47:239][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.20-19.26.47:239][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.20-19.26.47:239][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.20-19.26.47:240][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.20-19.26.47:261][852]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.20-19.26.47:261][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.20-19.26.47:261][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.20-19.26.47:261][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.20-19.26.47:262][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.01.20-19.26.47:262][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.01.20-19.26.47:264][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.01.20-19.26.47:264][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.01.20-19.26.47:264][852]LogInit: FAudioDevice initialized with ID 7.
+[2024.01.20-19.26.47:264][852]LogAudio: Display: Audio Device (ID: 7) registered with world 'FPTestEnvironment'.
+[2024.01.20-19.26.47:264][852]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.20-19.26.47:269][852]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.20-19.26.47:272][852]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment up for play (max tick rate 60) at 2024.01.20-13.26.47
+[2024.01.20-19.26.47:273][852]LogWorld: Bringing up level for play took: 0.003188
+[2024.01.20-19.26.47:275][852]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.01.20-19.26.47:277][852]PIE: Server logged in
+[2024.01.20-19.26.47:278][852]PIE: Play in editor total start time 0.068 seconds.
+[2024.01.20-19.26.49:666][981]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Teleporter_C /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+	Function /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter:0000
+[2024.01.20-19.26.49:667][981]PIE: Error: Infinite loop detected. Blueprint:  BP_Teleporter Function:  Inputs Call Stack:  Show
+[2024.01.20-19.26.49:696][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.26.49:696][981]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.26.49:696][981]LogWorld: UWorld::CleanupWorld for FPTestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.26.49:696][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.26.49:696][981]LogContentBundle: [FPTestEnvironment(Standalone)] Deleting container.
+[2024.01.20-19.26.49:718][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.20-19.26.49:721][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.26.49:734][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.20-19.26.49:734][981]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.01.20-19.26.49:734][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.20-19.26.49:736][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.01.20-19.26.49:741][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.26.49:744][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.20-19.26.49:972][982]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.01.20-19.27.03:478][684]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.27.03:501][684]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.27.50:192][976]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.27.50:239][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.20-19.27.52:291][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.27.52:380][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.27.52:392][ 67]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.27.52:392][ 67]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_TeleporterE7084AF943D707DBE0229B90B1D92708.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.27.52:402][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 1.75 sec)
+[2024.01.20-19.27.52:404][ 67]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.27.52:404][ 67]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.27.53:240][108]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.20-19.27.53:244][108]LogContentBundle: [FPTestEnvironment(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.20-19.27.53:244][108]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' started...
+[2024.01.20-19.27.53:248][108]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' took 2 ms (total: 21 ms)
+[2024.01.20-19.27.53:248][108]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.20-19.27.53:248][108]PIE: New page: PIE session: FPTestEnvironment (Jan 20, 2024, 7:27:53 AM)
+[2024.01.20-19.27.53:249][108]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.27.53:256][108]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007949s)
+[2024.01.20-19.27.53:256][108]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment to /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment (0.007988s)
+[2024.01.20-19.27.53:268][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.01.20-19.27.53:272][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.27.53:272][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.27.53:274][108]LogAIModule: Creating AISystem for world FPTestEnvironment
+[2024.01.20-19.27.53:274][108]LogWorldPartition: ULevel::OnLevelLoaded(FPTestEnvironment)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.20-19.27.53:275][108]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.20-19.27.53:275][108]LogWorldPartition: UWorldPartition::Initialize : World = FPTestEnvironment, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.20-19.27.53:275][108]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.20-19.27.53:276][108]LogContentBundle: [FPTestEnvironment(Standalone)] Creating new contrainer.
+[2024.01.20-19.27.53:276][108]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 169 ms)
+[2024.01.20-19.27.53:276][108]LogPlayLevel: PIE: World Init took: (0.003801s)
+[2024.01.20-19.27.53:276][108]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.01.20-19.27.53:276][108]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.20-19.27.53:276][108]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.20-19.27.53:276][108]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.20-19.27.53:276][108]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.20-19.27.53:276][108]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.20-19.27.53:276][108]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.20-19.27.53:276][108]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.20-19.27.53:276][108]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.20-19.27.53:277][108]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.20-19.27.53:277][108]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.20-19.27.53:277][108]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.20-19.27.53:278][108]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.20-19.27.53:300][108]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.20-19.27.53:300][108]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.20-19.27.53:300][108]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.20-19.27.53:300][108]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.20-19.27.53:301][108]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.01.20-19.27.53:301][108]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.01.20-19.27.53:303][108]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.01.20-19.27.53:303][108]LogInit: FAudioDevice initialized with ID 8.
+[2024.01.20-19.27.53:303][108]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.01.20-19.27.53:303][108]LogAudio: Display: Audio Device (ID: 8) registered with world 'FPTestEnvironment'.
+[2024.01.20-19.27.53:303][108]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.01.20-19.27.53:307][108]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.20-19.27.53:310][108]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment up for play (max tick rate 60) at 2024.01.20-13.27.53
+[2024.01.20-19.27.53:311][108]LogWorld: Bringing up level for play took: 0.003856
+[2024.01.20-19.27.53:314][108]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.01.20-19.27.53:317][108]PIE: Server logged in
+[2024.01.20-19.27.53:318][108]PIE: Play in editor total start time 0.072 seconds.
+[2024.01.20-19.27.58:761][393]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Teleporter_C /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+	Function /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter:0000
+[2024.01.20-19.27.58:761][393]PIE: Error: Infinite loop detected. Blueprint:  BP_Teleporter Function:  Inputs Call Stack:  Show
+[2024.01.20-19.27.58:785][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.27.58:785][393]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.27.58:785][393]LogWorld: UWorld::CleanupWorld for FPTestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.27.58:786][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.27.58:786][393]LogContentBundle: [FPTestEnvironment(Standalone)] Deleting container.
+[2024.01.20-19.27.58:802][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.20-19.27.58:806][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.27.58:815][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.27.58:815][393]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.01.20-19.27.58:815][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.01.20-19.27.58:817][393]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.01.20-19.27.58:822][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.01.20-19.27.58:936][394]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.01.20-19.29.39:594][176]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.29.39:650][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.20-19.29.40:394][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.29.40:476][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.29.40:485][202]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.29.40:485][202]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter20918E6C4B3ECA284DBCCFA6ACAFE612.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.29.40:493][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.84 sec)
+[2024.01.20-19.29.40:495][202]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.29.40:495][202]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.29.41:922][265]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.20-19.29.41:927][265]LogContentBundle: [FPTestEnvironment(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.20-19.29.41:927][265]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' started...
+[2024.01.20-19.29.41:929][265]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' took 2 ms (total: 23 ms)
+[2024.01.20-19.29.41:929][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.20-19.29.41:929][265]PIE: New page: PIE session: FPTestEnvironment (Jan 20, 2024, 7:29:41 AM)
+[2024.01.20-19.29.41:964][265]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.29.41:972][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006853s)
+[2024.01.20-19.29.41:972][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment to /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment (0.006901s)
+[2024.01.20-19.29.41:981][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.20-19.29.41:985][265]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.29.41:986][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.29.41:986][265]LogAIModule: Creating AISystem for world FPTestEnvironment
+[2024.01.20-19.29.41:986][265]LogWorldPartition: ULevel::OnLevelLoaded(FPTestEnvironment)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.20-19.29.41:986][265]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.20-19.29.41:986][265]LogWorldPartition: UWorldPartition::Initialize : World = FPTestEnvironment, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.20-19.29.41:986][265]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.20-19.29.41:988][265]LogContentBundle: [FPTestEnvironment(Standalone)] Creating new contrainer.
+[2024.01.20-19.29.41:988][265]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 171 ms)
+[2024.01.20-19.29.41:988][265]LogPlayLevel: PIE: World Init took: (0.003036s)
+[2024.01.20-19.29.41:988][265]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.01.20-19.29.41:988][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.20-19.29.41:988][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.20-19.29.41:988][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.20-19.29.41:988][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.20-19.29.41:988][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.20-19.29.41:988][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.20-19.29.41:988][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.20-19.29.41:988][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.20-19.29.41:988][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.20-19.29.41:989][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.20-19.29.41:989][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.20-19.29.41:990][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.20-19.29.42:010][265]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.20-19.29.42:010][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.20-19.29.42:010][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.20-19.29.42:010][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.20-19.29.42:012][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.01.20-19.29.42:012][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.01.20-19.29.42:013][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.01.20-19.29.42:013][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.01.20-19.29.42:013][265]LogInit: FAudioDevice initialized with ID 9.
+[2024.01.20-19.29.42:013][265]LogAudio: Display: Audio Device (ID: 9) registered with world 'FPTestEnvironment'.
+[2024.01.20-19.29.42:013][265]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.01.20-19.29.42:018][265]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.20-19.29.42:022][265]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment up for play (max tick rate 60) at 2024.01.20-13.29.42
+[2024.01.20-19.29.42:023][265]LogWorld: Bringing up level for play took: 0.004153
+[2024.01.20-19.29.42:025][265]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.01.20-19.29.42:027][265]PIE: Server logged in
+[2024.01.20-19.29.42:028][265]PIE: Play in editor total start time 0.102 seconds.
+[2024.01.20-19.29.45:829][429]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.29.45:836][429]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.29.47:772][538]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Teleporter_C /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+	Function /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter:0000
+[2024.01.20-19.29.47:772][538]PIE: Error: Infinite loop detected. Blueprint:  BP_Teleporter Function:  Inputs Call Stack:  Show
+[2024.01.20-19.29.47:815][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.29.47:815][538]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.29.47:815][538]LogWorld: UWorld::CleanupWorld for FPTestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.29.47:816][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.29.47:816][538]LogContentBundle: [FPTestEnvironment(Standalone)] Deleting container.
+[2024.01.20-19.29.47:835][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.20-19.29.47:838][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.29.47:851][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.20-19.29.47:851][538]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.01.20-19.29.47:851][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.20-19.29.47:853][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.20-19.29.47:858][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.29.47:861][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.20-19.29.48:039][539]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.01.20-19.29.58:739][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2024.01.20-19.29.58:741][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.29.58:741][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.32.41:381][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.32.41:487][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.32.41:502][708]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.32.41:503][708]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_TeleporterE05DA2854B02ABA7B3976FBD25DD860D.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.32.41:515][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1.98 sec)
+[2024.01.20-19.32.41:517][708]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.32.41:517][708]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.33.37:353][998]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.33.37:353][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.34.55:425][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.01.20-19.34.55:431][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66_Auto7
+[2024.01.20-19.34.55:431][186]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/LXSJBR4N4D21AG39VZMP66_Auto784A386FC435DB4C57104CFBE36A6AE7C.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66_Auto7.uasset'
+[2024.01.20-19.34.55:435][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/D/XS/28JIN9RDDU78G3KD3DG55V_Auto7
+[2024.01.20-19.34.55:436][186]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/28JIN9RDDU78G3KD3DG55V_Auto7AA788F04435B9CF9B34D1CA0F6D41E6B.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/D/XS/28JIN9RDDU78G3KD3DG55V_Auto7.uasset'
+[2024.01.20-19.34.55:437][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FPTestEnvironment' took 0.034
+[2024.01.20-19.34.55:437][186]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.01.20-19.34.55:437][186]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnvironmentBPs/BP_Teleporter] ([2] browsable assets)...
+[2024.01.20-19.34.55:437][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnvironmentBPs/BP_Teleporter]
+[2024.01.20-19.34.55:451][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/EnvironmentBPs/BP_Teleporter_Auto7
+[2024.01.20-19.34.55:451][186]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter_Auto7D86C7597440556B42F84D9A211CD433E.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/Autosaves/Game/EnvironmentBPs/BP_Teleporter_Auto7.uasset'
+[2024.01.20-19.34.55:452][186]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.01.20-19.35.18:241][126]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.35.18:304][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.01.20-19.35.19:171][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.35.19:271][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.35.19:285][154]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.35.19:286][154]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter2A99F73242719BD5B1850785DD7DE305.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.35.19:296][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2.10 sec)
+[2024.01.20-19.35.19:297][154]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.35.19:298][154]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.35.24:054][351]LogSlate: Window 'BP_Teleporter' being destroyed
+[2024.01.20-19.35.24:066][351]LogSlate: Window 'BP_Teleporter' being destroyed
+[2024.01.20-19.35.24:071][351]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.35.24:072][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.35.25:528][419]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.20-19.35.25:555][419]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.20-19.35.27:072][502]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.35.27:096][502]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.35.28:050][559]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.20-19.35.28:057][559]LogContentBundle: [FPTestEnvironment(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.20-19.35.28:057][559]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' started...
+[2024.01.20-19.35.28:060][559]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' took 3 ms (total: 27 ms)
+[2024.01.20-19.35.28:060][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.20-19.35.28:060][559]PIE: New page: PIE session: FPTestEnvironment (Jan 20, 2024, 7:35:28 AM)
+[2024.01.20-19.35.28:061][559]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.35.28:070][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009479s)
+[2024.01.20-19.35.28:070][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment to /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment (0.009523s)
+[2024.01.20-19.35.28:084][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.20-19.35.28:089][559]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.35.28:089][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.35.28:090][559]LogAIModule: Creating AISystem for world FPTestEnvironment
+[2024.01.20-19.35.28:091][559]LogWorldPartition: ULevel::OnLevelLoaded(FPTestEnvironment)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.20-19.35.28:091][559]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.20-19.35.28:091][559]LogWorldPartition: UWorldPartition::Initialize : World = FPTestEnvironment, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.20-19.35.28:091][559]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.20-19.35.28:093][559]LogContentBundle: [FPTestEnvironment(Standalone)] Creating new contrainer.
+[2024.01.20-19.35.28:093][559]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 173 ms)
+[2024.01.20-19.35.28:093][559]LogPlayLevel: PIE: World Init took: (0.003901s)
+[2024.01.20-19.35.28:093][559]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.01.20-19.35.28:093][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.20-19.35.28:093][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.20-19.35.28:093][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.20-19.35.28:093][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.20-19.35.28:093][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.20-19.35.28:093][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.20-19.35.28:093][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.20-19.35.28:093][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.20-19.35.28:094][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.20-19.35.28:094][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.20-19.35.28:094][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.20-19.35.28:096][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.20-19.35.28:126][559]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.20-19.35.28:126][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.20-19.35.28:126][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.20-19.35.28:126][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.20-19.35.28:128][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.01.20-19.35.28:128][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.01.20-19.35.28:132][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.01.20-19.35.28:132][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.01.20-19.35.28:132][559]LogInit: FAudioDevice initialized with ID 10.
+[2024.01.20-19.35.28:132][559]LogAudio: Display: Audio Device (ID: 10) registered with world 'FPTestEnvironment'.
+[2024.01.20-19.35.28:132][559]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.20-19.35.28:136][559]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.20-19.35.28:140][559]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment up for play (max tick rate 60) at 2024.01.20-13.35.28
+[2024.01.20-19.35.28:141][559]LogWorld: Bringing up level for play took: 0.004741
+[2024.01.20-19.35.28:144][559]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.01.20-19.35.28:147][559]PIE: Server logged in
+[2024.01.20-19.35.28:147][559]PIE: Play in editor total start time 0.091 seconds.
+[2024.01.20-19.35.30:665][703]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Teleporter_C /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+	Function /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter:0000
+[2024.01.20-19.35.30:665][703]PIE: Error: Infinite loop detected. Blueprint:  BP_Teleporter Function:  Set ActiveTeleporter Call Stack:  Show
+[2024.01.20-19.35.30:715][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.35.30:715][703]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.35.30:715][703]LogWorld: UWorld::CleanupWorld for FPTestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.35.30:716][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.35.30:716][703]LogContentBundle: [FPTestEnvironment(Standalone)] Deleting container.
+[2024.01.20-19.35.30:718][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.20-19.35.30:723][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.35.30:735][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.20-19.35.30:735][703]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.20-19.35.30:735][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.20-19.35.30:737][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.20-19.35.30:741][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.35.30:743][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.01.20-19.35.30:880][704]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.01.20-19.35.33:570][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.35.33:571][835]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.35.33:571][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.36.05:948][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.20-19.36.08:958][136]LogSlate: Window 'Save Content' being destroyed
+[2024.01.20-19.36.08:968][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.36.09:032][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66
+[2024.01.20-19.36.09:032][136]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/LXSJBR4N4D21AG39VZMP661A17A5F241881ED9D93FE2AFDD96EA97.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/A/SP/LXSJBR4N4D21AG39VZMP66.uasset'
+[2024.01.20-19.36.09:035][136]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/D/XS/28JIN9RDDU78G3KD3DG55V
+[2024.01.20-19.36.09:035][136]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/28JIN9RDDU78G3KD3DG55VE7EB5B1141B740338C250F83693F0CB3.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/__ExternalActors__/FirstPerson/Maps/FPTestEnvironment/D/XS/28JIN9RDDU78G3KD3DG55V.uasset'
+[2024.01.20-19.36.09:046][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.18 sec)
+[2024.01.20-19.36.09:048][136]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.20-19.36.09:048][136]LogContentValidation: Display: Validating /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5DD101_1088745231
+[2024.01.20-19.36.09:048][136]LogContentValidation: Display: Validating /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+[2024.01.20-19.37.13:011][756]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.20-19.37.13:019][756]LogContentBundle: [FPTestEnvironment(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.20-19.37.13:019][756]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' started...
+[2024.01.20-19.37.13:025][756]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' took 5 ms (total: 32 ms)
+[2024.01.20-19.37.13:025][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.20-19.37.13:025][756]PIE: New page: PIE session: FPTestEnvironment (Jan 20, 2024, 7:37:13 AM)
+[2024.01.20-19.37.13:025][756]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.37.13:037][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012655s)
+[2024.01.20-19.37.13:037][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment to /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment (0.012716s)
+[2024.01.20-19.37.13:053][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2024.01.20-19.37.13:056][756]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.37.13:056][756]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.37.13:057][756]LogAIModule: Creating AISystem for world FPTestEnvironment
+[2024.01.20-19.37.13:058][756]LogWorldPartition: ULevel::OnLevelLoaded(FPTestEnvironment)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.20-19.37.13:058][756]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.20-19.37.13:058][756]LogWorldPartition: UWorldPartition::Initialize : World = FPTestEnvironment, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.20-19.37.13:058][756]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.20-19.37.13:061][756]LogContentBundle: [FPTestEnvironment(Standalone)] Creating new contrainer.
+[2024.01.20-19.37.13:061][756]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 176 ms)
+[2024.01.20-19.37.13:061][756]LogPlayLevel: PIE: World Init took: (0.004658s)
+[2024.01.20-19.37.13:061][756]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.01.20-19.37.13:061][756]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.20-19.37.13:061][756]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.20-19.37.13:061][756]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.20-19.37.13:061][756]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.20-19.37.13:061][756]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.20-19.37.13:061][756]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.20-19.37.13:061][756]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.20-19.37.13:061][756]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.20-19.37.13:062][756]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.20-19.37.13:062][756]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.20-19.37.13:062][756]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.20-19.37.13:064][756]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.20-19.37.13:105][756]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.20-19.37.13:106][756]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.20-19.37.13:106][756]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.20-19.37.13:106][756]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.20-19.37.13:111][756]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.01.20-19.37.13:111][756]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.01.20-19.37.13:113][756]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.01.20-19.37.13:114][756]LogInit: FAudioDevice initialized with ID 11.
+[2024.01.20-19.37.13:114][756]LogAudio: Display: Audio Device (ID: 11) registered with world 'FPTestEnvironment'.
+[2024.01.20-19.37.13:114][756]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.01.20-19.37.13:114][756]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.20-19.37.13:120][756]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.20-19.37.13:126][756]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment up for play (max tick rate 60) at 2024.01.20-13.37.13
+[2024.01.20-19.37.13:127][756]LogWorld: Bringing up level for play took: 0.006982
+[2024.01.20-19.37.13:130][756]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.01.20-19.37.13:135][756]PIE: Server logged in
+[2024.01.20-19.37.13:136][756]PIE: Play in editor total start time 0.116 seconds.
+[2024.01.20-19.37.15:834][860]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.20-19.37.15:842][860]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.20-19.37.17:398][941]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.37.17:405][941]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.37.19:612][ 67]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Teleporter_C /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+	Function /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter:0000
+[2024.01.20-19.37.19:612][ 67]PIE: Error: Infinite loop detected. Blueprint:  BP_Teleporter Function:  Set ActiveTeleporter Call Stack:  Show
+[2024.01.20-19.37.19:635][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.37.19:635][ 67]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.37.19:635][ 67]LogWorld: UWorld::CleanupWorld for FPTestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.37.19:635][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.37.19:635][ 67]LogContentBundle: [FPTestEnvironment(Standalone)] Deleting container.
+[2024.01.20-19.37.19:650][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.20-19.37.19:654][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.37.19:664][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.37.19:665][ 67]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.20-19.37.19:665][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.20-19.37.19:666][ 67]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.20-19.37.19:674][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.01.20-19.37.19:795][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.01.20-19.39.02:544][407]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.39.02:598][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.20-19.39.03:744][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.39.03:829][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.39.03:838][448]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.39.03:839][448]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter25758E254FD7C0A6CBA6CE88BBA40B58.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.39.03:847][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2.28 sec)
+[2024.01.20-19.39.03:852][448]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.39.03:852][448]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.39.10:067][766]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.20-19.39.10:072][766]LogContentBundle: [FPTestEnvironment(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.20-19.39.10:072][766]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' started...
+[2024.01.20-19.39.10:075][766]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' took 2 ms (total: 35 ms)
+[2024.01.20-19.39.10:075][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.20-19.39.10:075][766]PIE: New page: PIE session: FPTestEnvironment (Jan 20, 2024, 7:39:10 AM)
+[2024.01.20-19.39.10:115][766]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.39.10:127][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011974s)
+[2024.01.20-19.39.10:127][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment to /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment (0.012048s)
+[2024.01.20-19.39.10:140][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.20-19.39.10:144][766]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.39.10:144][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.39.10:144][766]LogAIModule: Creating AISystem for world FPTestEnvironment
+[2024.01.20-19.39.10:144][766]LogWorldPartition: ULevel::OnLevelLoaded(FPTestEnvironment)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.20-19.39.10:144][766]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.20-19.39.10:144][766]LogWorldPartition: UWorldPartition::Initialize : World = FPTestEnvironment, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.20-19.39.10:145][766]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.20-19.39.10:146][766]LogContentBundle: [FPTestEnvironment(Standalone)] Creating new contrainer.
+[2024.01.20-19.39.10:146][766]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 178 ms)
+[2024.01.20-19.39.10:146][766]LogPlayLevel: PIE: World Init took: (0.003044s)
+[2024.01.20-19.39.10:146][766]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.20-19.39.10:146][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.20-19.39.10:146][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.20-19.39.10:146][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.20-19.39.10:146][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.20-19.39.10:146][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.20-19.39.10:146][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.20-19.39.10:146][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.20-19.39.10:146][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.20-19.39.10:147][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.20-19.39.10:147][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.20-19.39.10:147][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.20-19.39.10:149][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.20-19.39.10:169][766]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.20-19.39.10:169][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.20-19.39.10:169][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.20-19.39.10:169][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.20-19.39.10:171][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.01.20-19.39.10:171][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.01.20-19.39.10:172][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.01.20-19.39.10:172][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.01.20-19.39.10:172][766]LogInit: FAudioDevice initialized with ID 12.
+[2024.01.20-19.39.10:172][766]LogAudio: Display: Audio Device (ID: 12) registered with world 'FPTestEnvironment'.
+[2024.01.20-19.39.10:172][766]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.20-19.39.10:175][766]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.20-19.39.10:178][766]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment up for play (max tick rate 60) at 2024.01.20-13.39.10
+[2024.01.20-19.39.10:179][766]LogWorld: Bringing up level for play took: 0.003645
+[2024.01.20-19.39.10:181][766]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2024.01.20-19.39.10:183][766]PIE: Server logged in
+[2024.01.20-19.39.10:184][766]PIE: Play in editor total start time 0.112 seconds.
+[2024.01.20-19.39.13:776][937]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Teleporter_C /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment:PersistentLevel.BP_Teleporter_C_UAID_50EBF6D207FB5FD101_1225178687
+	Function /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter_C:ExecuteUbergraph_BP_Teleporter:0000
+[2024.01.20-19.39.13:776][937]PIE: Error: Infinite loop detected. Blueprint:  BP_Teleporter Function:  Set ActiveTeleporter Call Stack:  Show
+[2024.01.20-19.39.13:815][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.39.13:815][937]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.39.13:815][937]LogWorld: UWorld::CleanupWorld for FPTestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.39.13:816][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.39.13:816][937]LogContentBundle: [FPTestEnvironment(Standalone)] Deleting container.
+[2024.01.20-19.39.13:831][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.20-19.39.13:835][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.39.13:845][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.20-19.39.13:845][937]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.20-19.39.13:846][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.20-19.39.13:847][937]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.20-19.39.13:851][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.39.13:853][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.20-19.39.13:936][938]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.01.20-19.39.16:981][ 79]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.39.17:003][ 79]LogSlate: Window 'Message Log' being destroyed
+[2024.01.20-19.39.29:151][713]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.39.29:244][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.39.29:254][713]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.39.29:255][713]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter26DF4ECF44AA9C71691E5FB532FD2576.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.39.29:263][713]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.40 sec)
+[2024.01.20-19.39.29:266][713]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.39.29:266][713]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.40.38:987][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.40.39:074][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.40.39:085][ 82]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.40.39:086][ 82]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_TeleporterCA9282DF4E5DF6A0BD978ABEAF8359A8.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.40.39:096][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 2.50 sec)
+[2024.01.20-19.40.39:096][ 82]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.40.39:096][ 82]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.40.41:217][186]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.40.41:267][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.20-19.40.42:244][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.40.42:332][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.40.42:343][227]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.40.42:343][227]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter559704E543BDE661593A0DBAC22DDE06.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.40.42:352][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 2.61 sec)
+[2024.01.20-19.40.42:353][227]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.40.42:353][227]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.40.59:671][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.40.59:760][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.40.59:771][989]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.40.59:772][989]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter1EA9B1954BDB7774E4FFF1ABA31EDC1E.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.40.59:781][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 2.72 sec)
+[2024.01.20-19.40.59:783][989]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.40.59:783][989]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.41.00:686][ 33]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-19.41.00:729][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.01.20-19.41.01:560][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-19.41.01:627][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-19.41.01:637][ 67]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-19.41.01:637][ 67]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter3D64E0754F5C40BC12DE3DA316C75768.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-19.41.01:644][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 2.81 sec)
+[2024.01.20-19.41.01:650][ 67]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-19.41.01:650][ 67]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
+[2024.01.20-19.41.02:623][114]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.20-19.41.02:628][114]LogContentBundle: [FPTestEnvironment(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.20-19.41.02:628][114]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' started...
+[2024.01.20-19.41.02:633][114]LogWorldPartition: Display: GenerateStreaming for 'FPTestEnvironment' took 5 ms (total: 40 ms)
+[2024.01.20-19.41.02:633][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.20-19.41.02:634][114]PIE: New page: PIE session: FPTestEnvironment (Jan 20, 2024, 7:41:02 AM)
+[2024.01.20-19.41.02:634][114]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.41.02:643][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008933s)
+[2024.01.20-19.41.02:643][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FPTestEnvironment.FPTestEnvironment to /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment (0.008994s)
+[2024.01.20-19.41.02:655][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.20-19.41.02:660][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.20-19.41.02:660][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.20-19.41.02:661][114]LogAIModule: Creating AISystem for world FPTestEnvironment
+[2024.01.20-19.41.02:661][114]LogWorldPartition: ULevel::OnLevelLoaded(FPTestEnvironment)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.20-19.41.02:661][114]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.20-19.41.02:661][114]LogWorldPartition: UWorldPartition::Initialize : World = FPTestEnvironment, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.20-19.41.02:661][114]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.20-19.41.02:664][114]LogContentBundle: [FPTestEnvironment(Standalone)] Creating new contrainer.
+[2024.01.20-19.41.02:664][114]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 180 ms)
+[2024.01.20-19.41.02:664][114]LogPlayLevel: PIE: World Init took: (0.003545s)
+[2024.01.20-19.41.02:664][114]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.20-19.41.02:664][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.20-19.41.02:664][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.20-19.41.02:664][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.20-19.41.02:664][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.20-19.41.02:664][114]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.20-19.41.02:664][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.20-19.41.02:664][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.20-19.41.02:664][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.20-19.41.02:665][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.20-19.41.02:665][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.20-19.41.02:665][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.20-19.41.02:667][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.20-19.41.02:690][114]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.20-19.41.02:690][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.20-19.41.02:690][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.20-19.41.02:690][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.20-19.41.02:691][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.20-19.41.02:691][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.20-19.41.02:692][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.20-19.41.02:692][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.20-19.41.02:692][114]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.20-19.41.02:692][114]LogAudio: Display: Audio Device (ID: 13) registered with world 'FPTestEnvironment'.
+[2024.01.20-19.41.02:692][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.20-19.41.02:698][114]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.20-19.41.02:702][114]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment.FPTestEnvironment up for play (max tick rate 60) at 2024.01.20-13.41.02
+[2024.01.20-19.41.02:702][114]LogWorld: Bringing up level for play took: 0.004390
+[2024.01.20-19.41.02:705][114]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.01.20-19.41.02:708][114]PIE: Server logged in
+[2024.01.20-19.41.02:709][114]PIE: Play in editor total start time 0.082 seconds.
+[2024.01.20-19.41.20:926][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.41.20:926][ 64]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FPTestEnvironment
+[2024.01.20-19.41.20:926][ 64]LogWorld: UWorld::CleanupWorld for FPTestEnvironment, bSessionEnded=true, bCleanupResources=true
+[2024.01.20-19.41.20:927][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.41.20:927][ 64]LogContentBundle: [FPTestEnvironment(Standalone)] Deleting container.
+[2024.01.20-19.41.20:948][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.20-19.41.20:952][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.20-19.41.20:966][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.20-19.41.20:966][ 64]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.20-19.41.20:966][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.20-19.41.20:968][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.20-19.41.20:977][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.01.20-19.41.21:023][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.01.20-20.04.46:807][624]BlueprintLog: New page: Compile BP_Teleporter
+[2024.01.20-20.04.46:854][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.01.20-20.04.47:719][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.20-20.04.47:801][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnvironmentBPs/BP_Teleporter" FILE="../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset" SILENT=true
+[2024.01.20-20.04.47:809][659]LogSavePackage: Moving output files for package: /Game/EnvironmentBPs/BP_Teleporter
+[2024.01.20-20.04.47:811][659]LogSavePackage: Moving '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Saved/BP_Teleporter3885010B4CDBF573AA3DF4888C41EFA2.tmp' to '../../../../../../Users/geoff/Documents/GitHub/ATXGameJam2024/ATXJam24/Content/EnvironmentBPs/BP_Teleporter.uasset'
+[2024.01.20-20.04.47:818][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.90 sec)
+[2024.01.20-20.04.47:823][659]AssetCheck: New page: Asset Save: BP_Teleporter
+[2024.01.20-20.04.47:824][659]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/EnvironmentBPs/BP_Teleporter.BP_Teleporter
